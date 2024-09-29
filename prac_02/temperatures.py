@@ -1,4 +1,4 @@
-"""CP1404 Prac 2 - Temperatures"""
+"""CP1404 Prac 2- Temperatures"""
 MENU = """C - Convert Celsius to Fahrenheit
 F - Convert Fahrenheit to Celsius
 Q - Quit"""
