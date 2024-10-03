@@ -10,4 +10,7 @@ number between the parametres in this case 2.5-5.5
 
 """
 
-      )
+import random
+
+random_number = random.randint(1, 100)
+print(random_number)
