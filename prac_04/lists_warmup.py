@@ -11,3 +11,17 @@ numbers = [3, 1, 4, 1, 5, 9, 2]
 # Q9: numbers + [6, 5, 3] will temporarily add the numbers onto the end of the current list
 
 
+# Statements:
+
+# 1:
+numbers[0] = "ten"
+
+
+# 2:
+numbers[-1] = 1
+
+# 3:
+print(numbers[:-2])
+
+#
+print(9 in numbers)
