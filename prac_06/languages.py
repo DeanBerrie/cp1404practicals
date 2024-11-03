@@ -2,7 +2,7 @@
 CP1404 Prac 6
 Languages
 Estimated time: 20 minutes
-Time taken:
+Time taken: 15 minutes
 """
 
 from prac_06.programming_language import ProgrammingLanguage
