@@ -1,8 +1,8 @@
 """
 CP1404 Prac 6
 Guitar Test
-Estimated Time: 25 minutes
-Time taken:
+Estimated Time: 15 minutes
+Time taken: 10
 """
 
 from guitar import Guitar
