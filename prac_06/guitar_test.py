@@ -22,4 +22,5 @@ def main():
     print(f'{guitar.name} is_vintage() - Expected True. Got {guitar.is_vintage()}')
     print(f'{other_guitar.name} is_vintage() - Expected False. Got {other_guitar.is_vintage()}')
 
+
 main()
