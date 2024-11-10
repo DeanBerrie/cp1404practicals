@@ -1,0 +1,6 @@
+Language,Typing,Reflection,True,Year
+Java,Static,Yes,False,1995
+C++,Static,No,False,1983
+Python,Dynamic,Yes,True,1991
+Visual Basic,Static,No,False,1991
+Ruby,Dynamic,Yes,True,1995
